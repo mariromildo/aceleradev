@@ -12,3 +12,6 @@ Desafio utilizando um banco de dados fictício para o aprendizado de conceitos e
 
 ## Semana 4
 Desafio de código para fixação de conceitos estatísticos teóricos vistos em aula. O conteúdo abordado na semana foi sobre probabilidade, variáveis aleatórias e distribuições.
+
+## Semana 5
+Desafio de código para fixação de conceitos estatísticos teóricos vistos em aula. O conteúdo abordado na semana foi sobre testes de hipótese e a aplicação no dataset dos Jogos Olímpicos.
