@@ -15,3 +15,7 @@ Desafio de código para fixação de conceitos estatísticos teóricos vistos em
 
 ## Semana 5
 Desafio de código para fixação de conceitos estatísticos teóricos vistos em aula. O conteúdo abordado na semana foi sobre testes de hipótese e a aplicação no dataset dos Jogos Olímpicos.
+
+## Semana 6
+
+Desafio de código para fixação dos conceitos de redução de dimensionalidade com PCA e seleção de variáveis com RFE utilizando o dataset de jogadores do game FIFA 2019.
