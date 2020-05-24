@@ -19,3 +19,7 @@ Desafio de código para fixação de conceitos estatísticos teóricos vistos em
 ## Semana 6
 
 Desafio de código para fixação dos conceitos de redução de dimensionalidade com PCA e seleção de variáveis com RFE utilizando o dataset de jogadores do game FIFA 2019.
+
+## Semana 7
+
+Desafio de código para fixação dos conceitos de redução de feature engineering utilizando o dataset de países.
